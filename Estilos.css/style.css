@@ -10,3 +10,12 @@ body {
     padding: 1em;
     border: 1px solid black;
 }
+
+#testeo{
+font-size: 32px;
+}
+
+#cabecera{
+    font-size: 48px;
+background-color: BLUE;
+}
