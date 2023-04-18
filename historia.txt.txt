@@ -10,3 +10,5 @@ handlers handle req and res
 los controllers la logica y la speticiones a la API/BD
 
 hola
+
+ese man explica muy rapido
